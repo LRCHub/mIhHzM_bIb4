@@ -1,4 +1,4 @@
-# HIKAKIN & SEIKIN – 夢
+# HIKAKIN & SEIKIN – 夢(カラオケ ver.)
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
