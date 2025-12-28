@@ -1,81 +1,9 @@
 {
   "version": 1,
-  "base_track": "夢",
+  "base_track": "夢(カラオケ ver.)",
   "base_artist": "HIKAKIN & SEIKIN",
-  "createdAt": "2025-12-18T14:19:47.981990Z",
+  "createdAt": "2025-12-28T02:25:48.647891Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "夢?",
-      "artist": "はてな",
-      "has_synced": true,
-      "path": "select/01_夢_はてな.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "夢",
-      "artist": "FLOWER FLOWER",
-      "has_synced": true,
-      "path": "select/02_夢_FLOWER_FLOWER.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "夢",
-      "artist": "Shuta Sueyoshi",
-      "has_synced": true,
-      "path": "select/03_夢_Shuta_Sueyoshi.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "夢 (몽) Daydreamin'",
-      "artist": "EXO-SC",
-      "has_synced": true,
-      "path": "select/04_夢_(몽)_Daydreamin'_EXO-SC.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "Dream is Power(夢)",
-      "artist": "SNH48",
-      "has_synced": false,
-      "path": "select/05_Dream_is_Power(夢)_SNH48.txt"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "夢・もしもしもしも?",
-      "artist": "シャロ(内田真礼)",
-      "has_synced": true,
-      "path": "select/06_夢・もしもしもしも_シャロ(内田真礼).lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "夢 (She`s Dreaming)",
-      "artist": "EXO",
-      "has_synced": true,
-      "path": "select/07_夢_(She`s_Dreaming)_EXO.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "夢 Mong",
-      "artist": "Dasutt",
-      "has_synced": true,
-      "path": "select/08_夢_Mong_Dasutt.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "夢 (She's Dreaming)",
-      "artist": "EXO",
-      "has_synced": true,
-      "path": "select/09_夢_(She's_Dreaming)_EXO.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
